@@ -15,5 +15,5 @@
 
 1. Клонировать репозиторий:
 ```bash
-git clone https://github.com/yourusername/hba1c-api-go.git
+git clone https://github.com/Dmitirii/hba1c-api-go.git
 cd hba1c-api-go
